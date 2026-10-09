@@ -1,0 +1,7 @@
+# Firebase configuration is downloaded locally from the Firebase console.
+google-services.json
+
+# Local project exports and installable builds can contain Firebase configuration.
+/ListyCity.zip
+*.apk
+*.aab
